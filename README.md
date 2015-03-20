@@ -1,0 +1,2 @@
+# Interakcje
+Interakcje do osadzenia.
